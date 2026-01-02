@@ -1,334 +1,399 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
-        <title>City Studio | 城市工作室</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
-        <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-        <!-- Google Web Font Embed -->
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,600,500,300,700' rel='stylesheet' type='text/css'>
-        
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/templatemo_main.css">
-    </head>
-    <body>
-        <div id="main-wrapper">
-            <!--[if lt IE 7]>
-                <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-            <![endif]-->
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+	<title>City Studio | 城市工作室</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->
+	<link rel="stylesheet" href="css/fontawesome-all.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/magnific-popup.css"/>
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+	<link rel="stylesheet" href="css/tooplate-style.css">
 
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center templatemo-logo margin-top-20">
-                <h1 class="templatemo-site-title">
-                    <a href="#">城市工作室</a>
-                </h1>
-                <h3 class="templatemo-site-title">
-                	City <a href="https://studio.us.kg" target="_blank"><span class="blue">Studio</span><span class="green">.us.kg</span></a>
-                </h3>
-            </div>
+	<script>
+		var renderPage = true;
 
-            <div class="image-section">
-                <div class="image-container">
-                    <img src="images/zoom-bg-1.jpg" id="menu-img" class="main-img inactive" alt="Zoom HTML5 Template">
-                    <img src="images/zoom-bg-2.jpg" id="products-img" class="inactive" alt="Product">
-                    <img src="images/zoom-bg-3.jpg" id="services-img"  class="inactive" alt="Services">
-                    <img src="images/zoom-bg-4.jpg" id="about-img" class="inactive" alt="About">
-                    <img src="images/zoom-bg-5.jpg" id="contact-img" class="inactive" alt="Contact">
-                    <img src="images/zoom-bg-6.jpg" id="company-intro-img" class="main-img inactive" alt="Company Intro">
-                    <img src="images/zoom-bg-7.jpg" id="testimonials-img" class="main-img inactive" alt="Testimonials">
-                </div>
-            </div>
+	if(navigator.userAgent.indexOf('MSIE')!==-1
+		|| navigator.appVersion.indexOf('Trident/') > 0){
+   		/* Microsoft Internet Explorer detected in. */
+   		alert("Please view this in a modern browser such as Chrome or Microsoft Edge.");
+   		renderPage = false;
+	}
+	</script>
+</head>
 
-            <div class="container">
-                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 templatemo-content-wrapper">
-                    <div class="templatemo-content">
-                        
-                        <section id="menu-section" class="active">
-                            <div class="row">
-                                <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3 margin-bottom-20">
-                                    <a href="#products" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <i class="fa fa-cubes"></i>
-                                            <h2>产品</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3 margin-bottom-20">
-                                    <a href="#services" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <i class="fa fa-laptop"></i>
-                                            <h2>服务</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3 margin-bottom-20">
-                                    <a href="#about" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <i class="fa fa-users"></i>
-                                            <h2>关于</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3 margin-bottom-20">
-                                    <a href="#contact" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <i class="fa fa-envelope"></i>
-                                            <h2>联系</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            
-                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 margin-bottom-20">
-                                    <a href="#company-intro" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>介绍</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 margin-bottom-20">
-                                    <a href="#testimonials" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>评价</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                              
-                            </div>
-                        </section><!-- /.menu-section -->    
-                        <section id="products-section" class="inactive">
-                            <div class="row">
-                                <div class="col-sm-6 col-md-6 col-lg-6 margin-bottom-20">
-                                    <div class="black-bg col-sm-12 col-md-12 col-lg-12">
-                                        <h2>WEB DESIGN</h2>
-                                        <p>Zoom is free HTML5 website template for everyone. You can use this template for any purpose. Credit goes to <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for photos used in this template. Integer posuere quam a orci tempor, ut eleifend est vulputate. Nullam vitae lectus dui. Donec vulputate ac tortor id convallis. Sed nisi mauris, laoreet vitae lacus at, viverra viverra neque.</p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <div class="black-bg col-sm-12 col-md-12 col-lg-12">
-                                        <h2>RESPONSIVE</h2>
-                                        <p><span class="green">Zoom template is a mobile-ready layout supporting all kinds of mobile devices or different screen sizes.</span> Integer posuere quam a orci tempor, ut eleifend est vulputate. Nullam vitae lectus dui. Donec vulputate ac tortor id convallis. Sed nisi mauris, laoreet vitae lacus at, viverra viverra neque. Curabitur nec aliquam lacus, nec molestie erat.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row margin-top-20">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  pull-right">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>返回菜单</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.product-section -->    
-                        <section id="services-section" class="inactive">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-12 col-lg-12">
-                                    <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
-                                        <h2>OUR SERVICES</h2>
-                                        <p>Aenean quis semper metus. <a href="#">Maecenas</a> adipiscing, leo a facilisis tempor, mi quam feugiat eros, ullamcorper porttitor elit turpis ac risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non sem a leo mattis dapibus. Duis vel ornare arcu. Quisque at malesuada tortor.</p>
-                                        <p>Quisque non tempus lacus, non placerat arcu. Donec nibh ipsum, pharetra nec pellentesque at, mattis ut lorem. Fusce dapibus tristique neque, eget ultricies lorem tincidunt vitae. Aliquam erat volutpat. Integer vulputate ultricies nisl, sed vehicula justo accumsan non.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row margin-top-20">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  pull-right">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>返回菜单</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.services-section -->    
-                        <section id="about-section" class="inactive">
-                            <div class="row">
-                                <div class="black-bg col-sm-12 col-md-12 col-lg-12">
-                                    <h2 class="text-center">自我介绍</h2>
-                                    <div class="col-sm-6 col-md-6">
-                                        <p>
-城市工作室，专注于城市文化与创意表达。<br>
-我们从城市出发，用设计、内容与灵感记录空间的温度，连接人与城市、现实与想象。<br>
+<body>
+	<!-- Loader -->
+	<div id="loader-wrapper">
+		<div id="loader"></div>
+		<div class="loader-section section-left"></div>
+		<div class="loader-section section-right"></div>
+	</div>
+	
+	<!-- Page Content -->
+	<div class="container-fluid tm-main">
+		<div class="row tm-main-row">
+
+			<!-- Sidebar -->
+			<div id="tmSideBar" class="col-xl-3 col-lg-4 col-md-12 col-sm-12 sidebar">
+
+				<button id="tmMainNavToggle" class="menu-icon">&#9776;</button>
+
+				<div class="inner">
+					<nav id="tmMainNav" class="tm-main-nav">
+						<ul>
+							<li>
+								<a href="#intro" id="tmNavLink1" class="scrolly active" data-bg-img="constructive_bg_01.jpg" data-page="#tm-section-1">
+									<i class="fas fa-home tm-nav-fa-icon"></i>
+									<span>首页</span>
+								</a>
+							</li>
+							<li>
+								<a href="#products" id="tmNavLink2" class="scrolly" data-bg-img="constructive_bg_02.jpg" data-page="#tm-section-2" data-page-type="carousel">
+									<i class="fas fa-map tm-nav-fa-icon"></i>
+									<span>相册</span>
+								</a>
+							</li>							
+							<li>
+								<a href="#company" class="scrolly" data-bg-img="constructive_bg_03.jpg" data-page="#tm-section-3">
+									<i class="fas fa-users tm-nav-fa-icon"></i>
+									<span>关于</span>
+								</a>
+							</li>
+							<li>
+								<a href="#contact" class="scrolly" data-bg-img="constructive_bg_04.jpg" data-page="#tm-section-4">
+									<i class="fas fa-comments tm-nav-fa-icon"></i>
+									<span>留言</span>
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+
+			<div class="col-xl-9 col-lg-8 col-md-12 col-sm-12 tm-content">
+
+					<!-- section 1 -->
+					<section id="tm-section-1" class="tm-section">
+						<div class="ml-auto">
+							<header class="mb-4"><h1 class="tm-text-shadow">城市工作室</h1></header>
+							<p class="mb-5 tm-font-big"> 
 在这里，城市不只是背景，而是持续生长的灵感源泉。<br>
-我们关注为城市注入更有温度的表达方式。在快速变化的城市进程中，我们选择慢下来，去观察、记录与思考，让城市的真实面貌被更多人看见。<br>
+我们关注为城市注入更有温度的表达方式。<br>
+在快速变化的城市进程中，我们选择慢下来，去观察、记录与思考，让城市的真实面貌被更多人看见。<br>
 我们相信，城市不仅由钢筋水泥构成，更由人、故事与情感共同塑造。
 </p>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6">
-                                        <p>
-城市工作室以城市文化为核心，将视觉设计、品牌创意、空间表达与内容创作相结合，从微小细节中提炼价值，从真实生活中寻找灵感。无论是一个标识、一组影像，还是一段文字，我们都希望作品能够回应城市本身，与人产生共鸣。<br>
-城市工作室始终保持开放的姿态，欢迎不同观点与想法的交流。<br>
-我们愿意与城市同行者共同探索，用创意连接现实与想象，让城市不只是被使用的空间，而成为被理解、被感受、被记住的存在。<br>
-未来，我们将继续扎根城市，用持续的创作回应时代与生活。
-</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row margin-top-20">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  pull-right">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>返回菜单</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.about-section -->    
-                        <section id="contact-section" class="inactive">
-                            <div class="row">
-                                <div class="black-bg col-sm-12 col-md-12 col-lg-12">
-                                    <h2 class="text-center">联系我们</h2>
-                                    
-                                    <div class="col-sm-12 col-md-12">
-                                        <p>
+							<a href="#" class="btn tm-btn tm-font-big" data-nav-link="#tmNavLink2">继续...</a> 
+							<!-- data-nav-link holds the ID of nav item, which means this link should behave the same as that nav item  -->
+						</div>
+					</section>
+
+					<!-- section 2 -->
+					<section id="tm-section-2" class="tm-section tm-section-carousel">
+						<div>
+							<header class="mb-4"><h2 class="tm-text-shadow">相册</h2></header>		            
+							<div class="tm-img-container">
+								<div class="tm-img-slider">
+									<a href="img/gallery-img-01.jpg" class="tm-slider-img"><img src="img/gallery-img-01-tn.jpg" alt="Image" class="img-fluid"></a>
+									<a href="img/gallery-img-02.jpg" class="tm-slider-img"><img src="img/gallery-img-02-tn.jpg" alt="Image" class="img-fluid"></a>
+									<a href="img/gallery-img-03.jpg" class="tm-slider-img"><img src="img/gallery-img-03-tn.jpg" alt="Image" class="img-fluid"></a>
+									<a href="img/gallery-img-04.jpg" class="tm-slider-img"><img src="img/gallery-img-04-tn.jpg" alt="Image" class="img-fluid"></a>
+									<a href="img/gallery-img-05.jpg" class="tm-slider-img"><img src="img/gallery-img-05-tn.jpg" alt="Image" class="img-fluid"></a>
+									<a href="img/gallery-img-06.jpg" class="tm-slider-img"><img src="img/gallery-img-06-tn.jpg" alt="Image" class="img-fluid"></a>
+								</div>
+							</div>		            		          
+						</div>       		          	
+					</section>
+
+					<!-- section 3 -->
+					<section id="tm-section-3" class="tm-section">						
+						<div class="row mb-4">
+							<header class="col-xl-12"><h2 class="tm-text-shadow">关于我们</h2></header>		
+						</div>
+						<div class="row">
+							<div class="col-sm-12 col-md-6 col-lg-12 col-xl-6 mb-4">
+								<div class="media tm-bg-transparent-black tm-border-white">
+									<i class="fab fa-apple tm-icon-circled tm-icon-media"></i>
+									<div class="media-body">
+<h3></h3>
+<p>
+城市工作室，专注于城市文化与创意表达。<br>
+我们从城市出发，用设计、内容与灵感记录空间的温度，连接人与城市、现实与想象。
+</p>	
+									</div>
+								</div>
+							</div>	
+							<div class="col-sm-12 col-md-6 col-lg-12 col-xl-6 mb-4">
+								<div class="media tm-bg-transparent-black tm-border-white">
+									<i class="fas fa-map-pin mr-4 tm-icon-circled tm-icon-media"></i>	
+									<div class="media-body">
+<h3></h3>
+<p>
+在这里，城市不只是背景，而是持续生长的灵感源泉。<br>
+我们关注为城市注入更有温度的表达方式。
+</p>	
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-md-6 col-lg-12 col-xl-6 mb-4">
+								<div class="media tm-bg-transparent-black tm-border-white">
+									<i class="fab fa-fly mr-4 tm-icon-circled tm-icon-media"></i>
+									<div class="media-body">
+<h3></h3>
+<p>
+在快速变化的城市进程中，我们选择慢下来，去观察、记录与思考，让城市的真实面貌被更多人看见。
+</p>		
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-md-6 col-lg-12 col-xl-6 mb-4">
+								<div class="media tm-bg-transparent-black tm-border-white">
+									<i class="fab fa-linode mr-4 tm-icon-circled tm-icon-media"></i>
+									<div class="media-body">
+<h3></h3>
+<p>
+我们相信，城市不仅由钢筋水泥构成，更由人、故事与情感共同塑造。
+</p>	
+									</div>
+								</div>
+							</div>			          		
+						</div>						               
+					</section>
+
+					<!-- section 4 -->
+					<section id="tm-section-4" class="tm-section">
+						<div class="tm-bg-transparent-black tm-contact-box-pad">
+							<div class="row mb-4">
+								<div class="col-sm-12">
+									<header><h2 class="tm-text-shadow">留言信息</h2></header>
+								</div>
+							</div>
+							<div class="row tm-page-4-content">
+								<div class="col-md-6 col-sm-12 tm-contact-col">
+									<div class="contact_message">
+										<form action="#contact" method="post" class="contact-form">
+											<div class="form-group">
+												<input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="名字" required="">
+											</div>
+											<div class="form-group">
+												<input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="邮箱" required="">
+											</div>
+											<div class="form-group">
+												<textarea id="contact_message" name="contact_message" class="form-control" rows="9" placeholder="留言" required=""></textarea>
+											</div>
+											<button type="submit" class="btn tm-btn-submit tm-btn ml-auto">Submit</button>
+										</form>
+									</div>
+								</div>
+								<div class="col-md-6 col-sm-12 tm-contact-col">
+									<div class="tm-address-box">
+										<p>
 城市因人而生，灵感因交流而来。<br>
 无论是一句建议、一点灵感，还是对城市与生活的思考，你的声音，都是我们前行的重要坐标。<br>
+</p>
+<p>
 期待与你，在文字中相遇。
 </p>
-                                    </div>
-                                    
-                                    <div class="col-sm-6 col-md-6">
-                                        <div id="map-canvas"><iframe src="https://www.amap.com/" width="100%" height="100%" frameborder="0" style="border:0" sandbox=""></iframe></div>
-                                        <p>Changsha, Hunan, China</p>
-                                    </div>
+<address>
+Changsha 410000<br>
+Hunan,<br>
+China
+</address>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>					
+				</div>	<!-- .tm-content -->							
+				<footer class="footer-link">
+					<p class="tm-copyright-text">Copyright &copy; 2026 
+                    
+                     <a target="_blank" href="https://studio.us.kg/" title="城市工作室">City Studio.</a></p>
+				</footer>
+			</div>	<!-- row -->			
+		</div>
+		<div id="preload-01"></div>
+		<div id="preload-02"></div>
+		<div id="preload-03"></div>
+		<div id="preload-04"></div>
 
-                                    <div class="col-sm-6 col-md-6 margin-bottom-20">
-                                        <form action="#" method="post">
+		<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
+		<script type="text/javascript" src="slick/slick.min.js"></script> <!-- Slick Carousel -->
 
-                                                <div class="form-group">
-                                                    <!--<label for="contact_name">Name</label>-->
-                                                    <input type="text" id="contact_name" class="form-control" placeholder="名字" />
-                                                </div>
-                                                <div class="form-group">
-                                                    <!--<label for="contact_email">Email Address</label>-->
-                                                    <input type="text" id="contact_email" class="form-control" placeholder="邮箱" />
-                                                </div>
-                                                <div class="form-group">
-                                                    <!--<label for="contact_message">Message</label>-->
-                                                    <textarea id="contact_message" class="form-control" rows="7" placeholder="留言内容"></textarea>
-                                                </div>
-                                                <button type="submit" class="btn btn-primary">Send</button>
+		<script>
 
-                                        </form>
-                                    </div>
-                                    
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                            <div class="row margin-top-20">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  pull-right">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>返回菜单</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.contact-section -->    
-                        <section id="company-intro-section" class="inactive">
-                            <div class="row">
-                                <div class="black-bg col-sm-12 col-md-12 col-lg-12">
-                                    <h2 class="text-center">自我介绍</h2>
-                                    <div class="col-sm-12 col-md-12">
-                                        <p>
-城市工作室是一家以城市为核心创作对象的综合型创意工作室。
-我们关注城市的形态、文化与人的生活方式，致力于通过设计、内容与策划，建立城市与人之间更有温度、更具深度的连接。
-在快速更新与高度同质化的城市环境中，我们希望用持续、克制而真诚的创作，为城市留下值得被记住的表达。
-</p>
-                                        <p>
-在我们看来，城市不仅是由建筑、道路与空间构成的物理集合，更是一种不断生长的生命体。
-它承载着历史记忆，也孕育着当下情绪；既有宏大的发展叙事，也存在于日常生活的细微瞬间。
-城市工作室正是从这些真实而具体的城市片段出发，通过观察、记录与转译，让城市的精神被看见、被理解。
-</p>
-                                        <p>
-城市工作室的创作方向涵盖品牌视觉、城市形象、文化内容、空间叙事与创意策划等多个领域。
-我们强调系统性思维，注重从城市背景、文化语境与使用者体验出发，构建清晰而稳定的表达体系。
-无论是一个城市品牌的视觉塑造，还是一个文化项目的内容呈现，我们都坚持让形式服务于意义，让创意回应真实需求。
-</p>
+		var sidebarVisible = false;
+		var currentPageID = "#tm-section-1";
 
-                                        <p>
-在创作过程中，我们尊重调研与思考的价值。通过实地观察、资料整理与跨领域交流，我们不断深化对城市与项目本身的理解，避免流于表面化的视觉堆砌或短暂的流行表达。
-我们更愿意花时间打磨作品的内在逻辑，使其具备长期生命力，能够在不同阶段持续发挥价值。
-</p>
+		// Setup Carousel
+		function setupCarousel() {
 
-                                        <p>
-城市工作室同样重视人与人之间的协作关系。
-我们相信，优秀的城市创作往往源于开放的沟通与多元视角的碰撞。
-因此，我们始终保持开放与包容的姿态，与客户、合作伙伴及城市中的不同角色共同探讨可能性，让创意在交流中不断生长。
-</p>
-                                        <p>
-未来，城市工作室将继续扎根城市语境，关注城市变化中的真实问题与情感需求，用持续的创作回应时代与生活。
-我们希望，通过一件件有思考、有态度的作品，让城市不只是被使用的空间，而成为被理解、被感受、被珍惜的存在。
-</p>
+			// If current page isn't Carousel page, don't do anything.
+			if($('#tm-section-2').css('display') == "none") {
+			}
+			else {	// If current page is Carousel page, set up the Carousel.
 
+				var slider = $('.tm-img-slider');
+				var windowWidth = $(window).width();
 
+				if (slider.hasClass('slick-initialized')) {
+					slider.slick('destroy');
+				}
 
+				if(windowWidth < 640) {
+					slider.slick({
+	              		dots: true,
+	              		infinite: false,
+	              		slidesToShow: 1,
+	              		slidesToScroll: 1
+	              	});
+				}
+				else if(windowWidth < 992) {
+					slider.slick({
+	              		dots: true,
+	              		infinite: false,
+	              		slidesToShow: 2,
+	              		slidesToScroll: 1
+	              	});
+				}
+				else {
+					// Slick carousel
+	              	slider.slick({
+	              		dots: true,
+	              		infinite: false,
+	              		slidesToShow: 3,
+	              		slidesToScroll: 2
+	              	});
+				}
 
+				// Init Magnific Popup
+				$('.tm-img-slider').magnificPopup({
+				  delegate: 'a', // child items selector, by clicking on it popup will open
+				  type: 'image',
+				  gallery: {enabled:true}
+				  // other options
+				});
+      		}
+  		}
 
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row margin-top-20">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  pull-right">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>返回菜单</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.company-intor-section -->    
-                        <section id="testimonials-section" class="inactive">
-                            <div class="row">
-                                <div class="black-bg col-sm-12 col-md-12 col-lg-12">
-                                    
-                                    <h2 class="text-center">Testimonials and Awards</h2>
-                                    <div class="col-sm-12 col-md-12">
-                                        <p>Maecenas euismod viverra enim, sed sodales nunc sagittis vel. Nullam placerat dignissim turpis, nec auctor leo malesuada vitae. Nunc a arcu fringilla, rutrum erat blandit, sollicitudin ipsum. Vivamus vitae cursus nibh. Etiam libero sapien, dictum sed dignissim a, lobortis quis sem. Morbi placerat, est eu vehicula dignissim, magna lacus tristique turpis, ut sollicitudin ante nulla at sem. Fusce neque nulla, fermentum at turpis elementum, venenatis viverra felis. Donec eget ipsum non dolor pulvinar ultricies vel id risus. Etiam tincidunt aliquet massa, sodales gravida magna posuere sit amet. Nullam tempus nec urna iaculis lacinia.</p>
-                                        <p>Sed adipiscing ultricies diam ut blandit. <a href="#">Nullam lobortis</a> egestas velit, quis vulputate leo feugiat a. Etiam venenatis odio quis pharetra pulvinar. Maecenas nec tempus lectus. Ut quam nisl, tempus eu rutrum at, volutpat at tortor. Donec dapibus gravida elit. Sed venenatis malesuada elementum. Donec vestibulum odio metus, vel tempor magna luctus et. Suspendisse porttitor, justo eget interdum faucibus, turpis nibh lacinia urna, vitae porta erat odio eu est. Duis laoreet dui id mi ultricies, ut dictum elit aliquet. Vivamus et libero enim. Curabitur adipiscing quis turpis sed consequat. Morbi ut arcu at sapien tempus lobortis. Etiam congue, enim eget condimentum consequat, mauris dolor tincidunt eros, vitae suscipit justo turpis sed turpis. Etiam adipiscing et orci ac condimentum.</p>
-                                    </div>
+  		// Setup Nav
+  		function setupNav() {
+  			// Add Event Listener to each Nav item
+	     	$(".tm-main-nav a").click(function(e){
+	     		e.preventDefault();
+		    	
+		    	var currentNavItem = $(this);
+		    	changePage(currentNavItem);
+		    	
+		    	setupCarousel();
+		    	setupFooter();
 
-                                </div>
-                            </div>
-                            <div class="row margin-top-20">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  pull-right">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>返回菜单</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.company-intor-section -->    
-                        
-                    </div><!-- /.templatemo-content -->  
-                </div><!-- /.templatemo-content-wrapper --> 
-            </div><!-- /.row --> 
+		    	// Hide the nav on mobile
+		    	$("#tmSideBar").removeClass("show");
+		    });	    
+  		}
 
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                    <p class="footer-text">Copyright © 2026</p>
-                </div><!-- /.footer --> 
-            </div>
+  		function changePage(currentNavItem) {
+  			// Update Nav items
+  			$(".tm-main-nav a").removeClass("active");
+     		currentNavItem.addClass("active");
 
-		</div><!-- /#main-wrapper -->
-        
-        <div id="preloader">
-            <div id="status">&nbsp;</div>
-        </div><!-- /#preloader -->
-        
-        <script src="js/jquery.min.js"></script>
-        <script src="js/jquery-ui.min.js"></script>
-        <script src="js/jquery.backstretch.min.js"></script>
-        <script src="js/templatemo_script.js"></script>
+	    	$(currentPageID).hide();
 
-    </body> 
+	    	// Show current page
+	    	currentPageID = currentNavItem.data("page");
+	    	$(currentPageID).fadeIn(1000);
+
+	    	// Change background image
+	    	var bgImg = currentNavItem.data("bgImg");
+	    	$.backstretch("img/" + bgImg);		    	
+  		}
+
+  		// Setup Nav Toggle Button
+  		function setupNavToggle() {
+
+			$("#tmMainNavToggle").on("click", function(){
+				$(".sidebar").toggleClass("show");
+			});
+  		}
+
+  		// If there is enough room, stick the footer at the bottom of page content.
+  		// If not, place it after the page content
+  		function setupFooter() {
+  			
+  			var padding = 100;
+  			var footerPadding = 40;
+  			var mainContent = $("section"+currentPageID);
+  			var mainContentHeight = mainContent.outerHeight(true);
+  			var footer = $(".footer-link");
+  			var footerHeight = footer.outerHeight(true);
+  			var totalPageHeight = mainContentHeight + footerHeight + footerPadding + padding;
+  			var windowHeight = $(window).height();		
+
+  			if(totalPageHeight > windowHeight){
+  				$(".tm-content").css("margin-bottom", footerHeight + footerPadding + "px");
+  				footer.css("bottom", footerHeight + "px");  			
+  			}
+  			else {
+  				$(".tm-content").css("margin-bottom", "0");
+  				footer.css("bottom", "20px");  				
+  			}  			
+  		}
+
+  		// Everything is loaded including images.
+      	$(window).on("load", function(){
+
+      		// Render the page on modern browser only.
+      		if(renderPage) {
+				// Remove loader
+		      	$('body').addClass('loaded');
+
+		      	// Page transition
+		      	var allPages = $(".tm-section");
+
+		      	// Handle click of "Continue", which changes to next page
+		      	// The link contains data-nav-link attribute, which holds the nav item ID
+		      	// Nav item ID is then used to access and trigger click on the corresponding nav item
+		      	var linkToAnotherPage = $("a.tm-btn[data-nav-link]");
+			    
+			    if(linkToAnotherPage != null) {
+			    	
+			    	linkToAnotherPage.on("click", function(){
+			    		var navItemToHighlight = linkToAnotherPage.data("navLink");
+			    		$("a" + navItemToHighlight).click();
+			    	});
+			    }
+		      	
+		      	// Hide all pages
+		      	allPages.hide();
+
+		      	$("#tm-section-1").fadeIn();
+
+		     	// Set up background first page
+		     	var bgImg = $("#tmNavLink1").data("bgImg");
+		     	
+		     	$.backstretch("img/" + bgImg, {fade: 500});
+
+		     	// Setup Carousel, Nav, and Nav Toggle
+			    setupCarousel();
+			    setupNav();
+			    setupNavToggle();
+			    setupFooter();
+
+			    // Resize Carousel upon window resize
+			    $(window).resize(function() {
+			    	setupCarousel();
+			    	setupFooter();
+			    });
+      		}	      	
+		});
+
+		</script>
+	</body>
 </html>
-
-
-
-
