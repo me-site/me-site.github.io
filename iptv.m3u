@@ -390,10 +390,6 @@ http://118.250.36.11:8888/udp/239.76.253.5:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://itv.us.kg/logo/凤凰中文.png" group-title="香港",鳳凰中文台
 https://itv.us.kg/smart.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://itv.us.kg/logo/凤凰中文.png" group-title="香港",鳳凰中文台
-https://see.cs.do/live.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://itv.us.kg/logo/凤凰中文.png" group-title="香港",鳳凰中文台
-https://max.cs.do/live.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://itv.us.kg/logo/凤凰中文.png" group-title="香港",鳳凰中文台
 https://tv.ando.eu.org/live.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://itv.us.kg/logo/凤凰中文.png" group-title="香港",鳳凰中文台
 http://phmanet.com:9999/udp/239.76.253.135:9000
@@ -401,10 +397,6 @@ http://phmanet.com:9999/udp/239.76.253.135:9000
 http://118.250.36.11:8888/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv.us.kg/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
 https://itv.us.kg/smart.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv.us.kg/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
-https://see.cs.do/live.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv.us.kg/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
-https://max.cs.do/live.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv.us.kg/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
 https://tv.ando.eu.org/live.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv.us.kg/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
