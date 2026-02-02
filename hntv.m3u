@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tv.mxdyeah.top/epgphp/t.xml"
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ott.ae.kg/logo/CCTV1.png" group-title="央视",CCTV1 综合
 http://phmanet.com:9999/udp/239.76.253.151:9000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ott.ae.kg/logo/CCTV1.png" group-title="央视",CCTV1 综合
@@ -1196,59 +1196,3 @@ https://tvn.cc.cd/live.php?id=bosigolf2_twn
 https://ott.us.ci/live.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-name="博斯高球2台" tvg-logo="https://ott.ae.kg/logo/博斯高球2.png" group-title="体育",博斯高球2台
 https://ott.cc.cd/live.php?id=bosigolf2_twn
-
-
-
-
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://ott.ae.kg/logo/香蕉台.png" group-title="日本",香蕉台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/983.ts
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://ott.ae.kg/logo/香蕉台.png" group-title="日本",香蕉台
-https://iptv.gv.uy/mytv.php?url=http://z88.ubtvfans.com/live/rx3/2930/f1b639cdb783636b957ca60e67a2c6b3/index.m3u8
-#EXTINF:-1 tvg-name="潘朵啦高畫質玩美台" tvg-logo="https://ott.ae.kg/logo/潘朵啦玩美.png" group-title="日本",潘朵啦玩美台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/981.ts
-#EXTINF:-1 tvg-name="潘朵啦高畫質玩美台" tvg-logo="https://ott.ae.kg/logo/潘朵啦玩美.png" group-title="日本",潘朵啦玩美台
-https://itv.us.kg/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="潘朵啦高畫質玩美台" tvg-logo="https://ott.ae.kg/logo/潘朵啦玩美.png" group-title="日本",潘朵啦玩美台
-https://iptv.gv.uy/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="驚豔成人電影台" tvg-logo="https://ott.ae.kg/logo/惊艳台.png" group-title="日本",驚豔台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/982.ts
-#EXTINF:-1 tvg-name="驚豔成人電影台" tvg-logo="https://ott.ae.kg/logo/惊艳台.png" group-title="日本",驚豔台
-https://itv.us.kg/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="驚豔成人電影台" tvg-logo="https://ott.ae.kg/logo/惊艳台.png" group-title="日本",驚豔台
-https://iptv.gv.uy/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="Happy" tvg-logo="https://ott.ae.kg/logo/Happy Channel.png" group-title="日本",Happy
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/986.ts
-#EXTINF:-1 tvg-name="Happy" tvg-logo="https://ott.ae.kg/logo/Happy Channel.png" group-title="日本",Happy
-https://iptv.gv.uy/mytv.php?url=http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
-#EXTINF:-1 tvg-name="彩虹e台" tvg-logo="https://ott.ae.kg/logo/彩虹E.png" group-title="日本",彩虹e台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/978.ts
-#EXTINF:-1 tvg-name="彩虹e台" tvg-logo="https://ott.ae.kg/logo/彩虹E.png" group-title="日本",彩虹e台
-https://iptv.gv.uy/mytv.php?url=http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
-#EXTINF:-1 tvg-name="K 頻道" tvg-logo="https://ott.ae.kg/logo/彩虹K.png" group-title="日本",K 頻道
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/988.ts
-#EXTINF:-1 tvg-name="彩虹電影台" tvg-logo="https://ott.ae.kg/logo/彩虹电影.png" group-title="日本",彩虹電影台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/979.ts
-#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://ott.ae.kg/logo/松视1台.png" group-title="日本",松視1台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/984.ts
-#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://ott.ae.kg/logo/松视1台.png" group-title="日本",松視1台
-https://itv.us.kg/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://ott.ae.kg/logo/松视1台.png" group-title="日本",松視1台
-https://iptv.gv.uy/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://ott.ae.kg/logo/松视2台.png" group-title="日本",松視2台
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/985.ts
-#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://ott.ae.kg/logo/松视2台.png" group-title="日本",松視2台
-https://itv.us.kg/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://ott.ae.kg/logo/松视2台.png" group-title="日本",松視2台
-https://iptv.gv.uy/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松視3台" tvg-logo="https://ott.ae.kg/logo/松视3台.png" group-title="日本",松視3台
-https://itv.us.kg/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-name="松視3台" tvg-logo="https://ott.ae.kg/logo/松视3台.png" group-title="日本",松視3台
-https://iptv.gv.uy/mytv.php?url=http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-name="JStar極限台電影頻道" tvg-logo="https://ott.ae.kg/logo/JStar极限电影台.png" group-title="日本",JStar極限台電影頻道
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/987.ts
-#EXTINF:-1 tvg-name="LOOK" tvg-logo="https://ott.ae.kg/logo/18+.png" group-title="日本",LOOK
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/980.ts
-#EXTINF:-1 tvg-name="Ours 1HD" tvg-logo="https://ott.ae.kg/logo/18+.png" group-title="日本",Ours 1HD
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/989.ts
-#EXTINF:-1 tvg-name="Ours 2HD" tvg-logo="https://ott.ae.kg/logo/18+.png" group-title="日本",Ours 2HD
-http://iptvpro.pw:35451/live/加QQ群1067462089/49YFP31u/990.ts
