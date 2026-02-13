@@ -28,10 +28,10 @@
 ### 2023-03-26 更新
 > 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
 
-<img src="https://ott.ae.kg/logo/xindm.png"><img src="https://ott.ae.kg/logo/jtlc.png"><img src="https://ott.ae.kg/logo/TVB3.png"><img src="https://ott.ae.kg/logo/TVB5.png"><img src="https://ott.ae.kg/logo/HOY1.png"><img src="https://ott.ae.kg/logo/CTI5.png"><img src="https://ott.ae.kg/logo/jingcai01.png"><img src="https://ott.ae.kg/logo/jingcai02.png"><img src="https://ott.ae.kg/logo/jingcai03.png"><img src="https://ott.ae.kg/logo/jingcai04.png">
+<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/xindm.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jtlc.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TVB3.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TVB5.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/HOY1.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/CTI5.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai01.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai02.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai03.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai04.png">
 
 ### 2023-03-20 更新
 > 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
 > 按照新的频道呼号核对实际台标做了名称调整
 
-<img src="https://ott.ae.kg/logo/leyou.png"><img src="https://ott.ae.kg/logo/huashu4k.png"><img src="https://ott.ae.kg/logo/TaiwanPlus.png"><img src="https://ott.ae.kg/logo/Fujian9.png"><img src="https://ott.ae.kg/logo/bjtjcai.png"><img src="https://ott.ae.kg/logo/Hubei7.png"><img src="https://ott.ae.kg/logo/Mnews.png"><img src="https://ott.ae.kg/logo/inbm.png">
+<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/leyou.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/huashu4k.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TaiwanPlus.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Fujian9.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/bjtjcai.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Hubei7.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Mnews.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/inbm.png">
