@@ -3,11 +3,11 @@
 > 
 【[CCTV](./md/01.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】
 
-【[全国卫视](./md/03.md)】  【[港澳地区](./md/04.md)】  
+【[全国卫视](./md/03.md)】  【[港澳](./md/04.md)】  
 
-【[台湾地区一](./md/05.md)】  【[台湾地区二](./md/06.md)】  【[台湾地区三](./md/07.md)】
+【[台湾一](./md/05.md)】  【[台湾二](./md/06.md)】  【[台湾三](./md/09.md)】
 
-【[国外地区一](./md/08.md)】  【[国外地区二](./md/09.md)】
+【[国外一](./md/07.md)】  【[国外一](./md/08.md)】
 
 【[数字频道](./md/10.md)】  【[DOX系列](./md/11.md)】  【[iHOT系列](./md/12.md)】  【[NewTV系列](./md/13.md)】  【[CIBN系列](./md/14.md)】
 
@@ -35,3 +35,4 @@
 > 按照新的频道呼号核对实际台标做了名称调整
 
 <img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/leyou.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/huashu4k.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TaiwanPlus.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Fujian9.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/bjtjcai.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Hubei7.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Mnews.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/inbm.png">
+
