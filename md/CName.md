@@ -10,8 +10,8 @@
 |贵州卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/贵州卫视.png">|哈哈炫动|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/哈哈炫动.png">|
 |海南卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/海南卫视.png">|海峡卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/海峡卫视.png">|
 |河北卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河北卫视.png">|河南卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视.png">|
-|河南卫视[春]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视[春].png">|河南卫视[夏]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视[夏].png">|
-|河南卫视[秋]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视[秋].png">|河南卫视[冬]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视[冬].png">|
+|河南卫视[春]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视春.png">|河南卫视[夏]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视夏.png">|
+|河南卫视[秋]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视秋.png">|河南卫视[冬]|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/河南卫视冬.png">|
 |黑龙江卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/黑龙江卫视.png">|湖北卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/湖北卫视.png">|
 |湖南卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/湖南卫视.png">|吉林卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/吉林卫视.png">|
 |嘉佳卡通|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/嘉佳卡通.png">|江苏卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/江苏卫视.png">|
