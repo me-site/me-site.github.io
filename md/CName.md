@@ -1,4 +1,4 @@
-# 【全国卫视】台标PNG文件
+# 【全国卫视】Name版台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |安多卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/安多卫视.png">|安徽卫视|<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/cn/安徽卫视.png">|
