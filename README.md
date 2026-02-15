@@ -1,38 +1,50 @@
 ### TVlogo
-> 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
+> 此LOGO项目底层代码源自[wanglindl](https://github.com/wanglindl/TVlogo)，有需要可至原作者处看看
+
+> 所有资源来自网络，收集整理制作只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
+
+> 中国
 > 
-【[CCTV](./md/01.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】
+【[CCTV](./md/CCTV.md)】  【[中国教育电视台/新华社](./md/CET.md)】
 
-【[全国卫视](./md/03.md)】  【[港澳](./md/04.md)】  
+【[全国卫视](./md/CN.md)】  【[数字频道](./md/DIG.md)】  【[地方卫视](./md/CNDF.md)】  【[港澳特区](./md/CNHK.md)】  【[台湾省](./md/CNTW.md)】
 
-【[台湾一](./md/05.md)】  【[台湾二](./md/06.md)】
+【[山东](./md/SD.md)】  【[江苏](./md/JS.md)】  【[安徽](./md/AH.md)】  【[浙江](./md/ZJ.md)】  【[福建](./md/FJ.md)】  【[上海](./md/SH.md)】
 
-【[海外一](./md/07.md)】  【[海外二](./md/08.md)】【[海外三](./md/09.md)】
+【[广东](./md/GD.md)】  【[广西](./md/GX.md)】  【[海南](./md/HIN.md)】
 
-【[数字频道](./md/10.md)】  【[DOX系列](./md/11.md)】  【[iHOT系列](./md/12.md)】  【[NewTV系列](./md/13.md)】  【[CIBN系列](./md/14.md)】
+【[湖南](./md/HUN.md)】  【[湖北](./md/HUB.md)】  【[河南](./md/HEN.md)】  【[江西](./md/JX.md)】
 
-【[山东](./md/20.md)】  【[江苏](./md/21.md)】  【[安徽](./md/22.md)】  【[浙江](./md/23.md)】  【[福建](./md/24.md)】  【[上海](./md/25.md)】
+【[北京](./md/BJ.md)】  【[天津](./md/TJ.md)】  【[河北](./md/HEB.md)】  【[山西](./md/SX.md)】  【[内蒙古](./md/NM.md)】
 
-【[广东](./md/26.md)】  【[广西](./md/27.md)】  【[海南](./md/28.md)】
+【[宁夏](./md/NX.md)】  【[新疆](./md/XJ.md)】  【[青海](./md/QH.md)】  【[陕西](./md/SAX.md)】  【[甘肃](./md/GS.md)】
 
-【[湖南](./md/湖南.md)】  【[湖北](./md/30.md)】  【[河南](./md/31.md)】  【[江西](./md/32.md)】
+【[四川](./md/SC.md)】  【[云南](./md/YN.md)】  【[贵州](./md/GZ.md)】  【[西藏](./md/XZ.md)】  【[重庆](./md/XQ.md)】
 
-【[北京](./md/33.md)】  【[天津](./md/34.md)】  【[河北](./md/35.md)】  【[山西](./md/36.md)】  【[内蒙古](./md/37.md)】
+【[辽宁](./md/LN.md)】  【[吉林](./md/JL.md)】  【[黑龙江](./md/HLJ.md)】
 
-【[宁夏](./md/38.md)】  【[新疆](./md/39.md)】  【[青海](./md/40.md)】  【[陕西](./md/41.md)】  【[甘肃](./md/42.md)】
+> 4K频道
+> 
+【[中国4K](./md/CN4K.md)】  【[国际4K](./md/INT4K.md)】
+> 
+> 东亚
+> 
+【[日本](./md/JP.md)】  【[韩国](./md/KR.md)】  【[朝鲜](./md/KP.md)】  【[蒙古](./md/MN.md)】
+> 
+> 东南亚
+> 
+【[越南](./md/VN.md)】  【[老挝](./md/LA.md)】  【[柬埔寨](./md/KH.md)】  【[缅甸](./md/MM.md)】
+>
+【[泰国](./md/TH.md)】  【[马来西亚](./md/MY.md)】  【[新加坡](./md/SG.md)】  【[印尼](./md/ID.md)】
+>
+【[菲律宾](./md/PH.md)】  【[文莱](./md/BN.md)】  【[东帝汶](./md/TL.md)】
+>
+>南亚
+>
+【[印度](./md/IN.md)】  【[巴基斯坦](./md/PK.md)】  【[孟加拉](./md/BD.md)】  【[斯里兰卡](./md/LK.md)】
+>
+>Adult
+>
+【[Adult](./md/CR.md)】
 
-【[四川](./md/43.md)】  【[云南](./md/44.md)】  【[贵州](./md/45.md)】  【[西藏](./md/46.md)】  【[重庆](./md/47.md)】
-
-【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
-
-### 2023-03-26 更新
-> 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
-
-<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/xindm.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jtlc.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TVB3.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TVB5.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/HOY1.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/CTI5.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai01.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai02.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai03.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/jingcai04.png">
-
-### 2023-03-20 更新
-> 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
-> 按照新的频道呼号核对实际台标做了名称调整
-
-<img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/leyou.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/huashu4k.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/TaiwanPlus.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Fujian9.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/bjtjcai.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Hubei7.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/Mnews.png"><img src="https://github.com/ott-tv/ott-tv.github.io/blob/main/logo/inbm.png">
 
