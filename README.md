@@ -5,7 +5,7 @@
 
 > 中国
 > 
-【[CCTV](./md/CCTV.md)】  【[中国教育电视台/新华社](./md/CET.md)】
+【[CCTV](./md/CCTV.md)】  【[CETV/新华社](./md/CET.md)】
 
 【[全国卫视](./md/CN.md)】  【[数字频道](./md/DIG.md)】  【[地方卫视](./md/CNDF.md)】  【[港澳特区](./md/CNHK.md)】  【[台湾省](./md/CNTW.md)】
 
