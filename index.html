@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="https://ott.cc.cd/ico/me.png" type="image/x-icon">
-<title>Me · 我的主页 </title>
-<meta name="description" content="Me · 导页 · IPTV · 工具入口">
+<title>Me Site | 我的小站</title>
+<meta name="description" content="ME · 博客 · IPTV · M3U · 接口">
 
 <style>
 :root {
@@ -67,30 +67,25 @@ body {
     margin-bottom: 42px;
 }
 
-/* 浅色能量头像 */
+/* 圆形 PNG 头像 */
 .avatar {
     width: 90px;
     height: 90px;
-    border-radius: 50%;
     margin: 0 auto 18px;
-    background: linear-gradient(135deg,
-        var(--accent1),
-        var(--accent2),
-        var(--accent3),
-        var(--accent4)
-    );
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 26px;
-    font-weight: 700;
-    color: #ffffff;
+    border-radius: 50%;
+    overflow: hidden;
     box-shadow:
         0 10px 30px rgba(56,189,248,.45),
         0 0 0 6px rgba(255,255,255,.6);
 }
+.avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
 
-/* 标题渐变流动（5s，不晕） */
+/* 标题 */
 h1 {
     font-size: 32px;
     font-weight: 800;
@@ -114,7 +109,6 @@ h1 {
     to   { background-position: 100% 50%; }
 }
 
-/* 副标题 */
 .subtitle {
     margin-top: 10px;
     font-size: 15px;
@@ -147,7 +141,6 @@ h1 {
     color: var(--sub);
 }
 
-/* Dashboard Hover */
 .links a:hover {
     transform: translateY(-3px);
     box-shadow: 0 12px 28px rgba(15,23,42,.14);
@@ -169,11 +162,19 @@ h1 {
     color: var(--sub);
 }
 
-/* 手机端 */
+/* =======================
+   📱 手机端关键修改
+   ======================= */
 @media (max-width: 520px) {
+    body {
+        align-items: flex-start;
+    }
+
     .card {
+        margin-top: 28px;
         padding: 40px 26px;
     }
+
     h1 {
         font-size: 26px;
         letter-spacing: 2px;
@@ -187,42 +188,54 @@ h1 {
 <div class="card">
 
     <div class="header">
-
-<div class="avatar">
-  <img src="/ico/me.png" alt="ME" width="90" height="90">
-</div>
+        <div class="avatar">
+            <img src="ico/me.png" alt="ME">
+        </div>
 
         <h1>UG.CX</h1>
         <div class="subtitle">
-            服务器 · IPTV · 工具入口
+            博客 · IPTV · M3U · 接口
         </div>
     </div>
 
-    <div class="links">
-        <a href="/iptv">
-            📺 IPTV
-            <span>/iptv</span>
-        </a>
-        <a href="/files">
-            📁 M3U / TXT
-            <span>/files</span>
-        </a>
-        <a href="/status">
-            📊 服务器状态
-            <span>/status</span>
-        </a>
-        <a href="/tools">
-            ⚙️ 管理和工具
-            <span>/tools</span>
-        </a>
-    </div>
+<div class="links">
+    <a href="https://iptv.nn.kg" style="position:relative;">
+        <img src="ico/blog.png" width="35" style="vertical-align:middle;">
+        <span style="position:absolute; left:50%; transform:translateX(-50%); white-space:nowrap;font-size:15px;">IPTV</span>
+        <span>Blog</span>
+    </a>
+
+    <a href="https://iptv.nn.kg/tv.m3u" style="position:relative;">
+        <img src="ico/m3u.png" width="35" style="vertical-align:middle;">
+        <span style="position:absolute; left:50%; transform:translateX(-50%); white-space:nowrap;font-size:15px;">播放列表</span>
+        <span>M3U</span>
+    </a>
+
+    <a href="https://iptv.nn.kg/tv.json" style="position:relative;">
+        <img src="ico/json.png" width="35" style="vertical-align:middle;">
+        <span style="position:absolute; left:50%; transform:translateX(-50%); white-space:nowrap;font-size:15px;">TVBOX接口</span>
+        <span>Json</span>
+    </a>
+
+    <a href="https://github.com/me-site" style="position:relative;">
+        <img src="ico/github.png" width="35" style="vertical-align:middle;">
+        <span style="position:absolute; left:50%; transform:translateX(-50%); white-space:nowrap;font-size:15px;">Me-Site</span>
+        <span>GitHub</span>
+    </a>
+</div>
+
 
     <div class="footer">
-        © 2026 Crafted with by 
-<a href="https://me.ug.cx" target="_blank" rel="noopener" style="text-decoration:none;color:#747578;font-weight:400;">Me</a>
+        © 2026 Crafted with by
+        <a href="https://me.ug.cx" target="_blank" rel="noopener"
+           style="text-decoration:none;color:#747578;font-weight:400;">
+           Me
+        </a>
     </div>
 
 </div>
 
 </body>
 </html>
+
+
