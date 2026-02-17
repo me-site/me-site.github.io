@@ -1,192 +1,228 @@
-<!doctype html>
-<html lang="zh-cn">
-
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="https://ott.cc.cd/ico/me.png" type="image/x-icon">
+<title>Me · 我的主页 </title>
+<meta name="description" content="Me · 导页 · IPTV · 工具入口">
 
-    <!--====== Required meta tags ======-->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<style>
+:root {
+    --bg-main: #f8fafc;
+    --bg-card: rgba(255,255,255,0.85);
+    --border: rgba(15,23,42,0.08);
+    --text: #0f172a;
+    --sub: #475569;
+    --accent1: #38bdf8;
+    --accent2: #22c55e;
+    --accent3: #a855f7;
+    --accent4: #f97316;
+}
 
-    <!--====== Title ======-->
-    <title>OTT | 网络电视</title>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont,
+                 "Segoe UI", "PingFang SC",
+                 "Microsoft YaHei", system-ui, sans-serif;
+}
 
-    <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/ott.png" type="image/png">
+body {
+    min-height: 100vh;
+    background:
+        radial-gradient(800px at 10% 0%, rgba(56,189,248,.25), transparent),
+        radial-gradient(700px at 90% 100%, rgba(168,85,247,.25), transparent),
+        linear-gradient(180deg, #f8fafc, #eef2f7);
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-    <!--====== Bootstrap css ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+/* 主卡片 */
+.card {
+    width: 92%;
+    max-width: 720px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 22px;
+    padding: 52px 44px;
+    backdrop-filter: blur(12px);
+    box-shadow:
+        0 30px 60px rgba(15,23,42,.12),
+        inset 0 1px 0 rgba(255,255,255,.6);
+    animation: fadeUp .8s ease;
+}
 
-    <!--====== Line Icons css ======-->
-    <link rel="stylesheet" href="assets/css/LineIcons.css">
+@keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
 
-    <!--====== Slick css ======-->
-    <link rel="stylesheet" href="assets/css/cb-slider.css">
-    
-    <!--====== Animate css ======-->
-    <link rel="stylesheet" href="assets/css/animate.css">
+/* 头部 */
+.header {
+    text-align: center;
+    margin-bottom: 42px;
+}
 
-    <!--====== Default css ======-->
-    <link rel="stylesheet" href="assets/css/default.css">
+/* 浅色能量头像 */
+.avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 0 auto 18px;
+    background: linear-gradient(135deg,
+        var(--accent1),
+        var(--accent2),
+        var(--accent3),
+        var(--accent4)
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    font-weight: 700;
+    color: #ffffff;
+    box-shadow:
+        0 10px 30px rgba(56,189,248,.45),
+        0 0 0 6px rgba(255,255,255,.6);
+}
 
-    <!--====== Style css ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
+/* 标题渐变流动（5s，不晕） */
+h1 {
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    background: linear-gradient(
+        90deg,
+        var(--accent1),
+        var(--accent2),
+        var(--accent3),
+        var(--accent4),
+        var(--accent1)
+    );
+    background-size: 300% 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: titleFlow 5s linear infinite;
+}
 
+@keyframes titleFlow {
+    from { background-position: 0% 50%; }
+    to   { background-position: 100% 50%; }
+}
 
+/* 副标题 */
+.subtitle {
+    margin-top: 10px;
+    font-size: 15px;
+    color: var(--sub);
+}
+
+/* 链接区域 */
+.links {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+}
+
+.links a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 20px;
+    background: #ffffff;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    text-decoration: none;
+    color: var(--text);
+    transition: all .25s ease;
+    box-shadow: 0 6px 14px rgba(15,23,42,.06);
+}
+
+.links a span {
+    font-size: 13px;
+    color: var(--sub);
+}
+
+/* Dashboard Hover */
+.links a:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 28px rgba(15,23,42,.14);
+    background: linear-gradient(
+        90deg,
+        rgba(56,189,248,.12),
+        rgba(34,197,94,.12),
+        rgba(168,85,247,.12),
+        rgba(249,115,22,.12)
+    );
+    border-color: transparent;
+}
+
+/* 页脚 */
+.footer {
+    margin-top: 42px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--sub);
+}
+
+/* 手机端 */
+@media (max-width: 520px) {
+    .card {
+        padding: 40px 26px;
+    }
+    h1 {
+        font-size: 26px;
+        letter-spacing: 2px;
+    }
+}
+</style>
 </head>
 
 <body>
-    
-    <!--====== PRELOADER PART START ======-->
 
-    <div class="preloader">
-        <div class="loader_34">
-            <div class="ytp-spinner">
-                <div class="ytp-spinner-container">
-                    <div class="ytp-spinner-rotator">
-                        <div class="ytp-spinner-left">
-                            <div class="ytp-spinner-circle"></div>
-                        </div>
-                        <div class="ytp-spinner-right">
-                            <div class="ytp-spinner-circle"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="card">
+
+    <div class="header">
+
+<div class="avatar">
+  <img src="/ico/me.png" alt="ME" width="90" height="90">
+</div>
+
+        <h1>UG.CX</h1>
+        <div class="subtitle">
+            服务器 · IPTV · 工具入口
         </div>
     </div>
 
-    <!--====== PRELOADER ENDS START ======-->
-
-    <!--====== HEADER PART START ======-->
-
-    <header class="header-area">
-        <ul class="cb-slideshow">
-            <li><span>Image 01</span></li>
-            <li><span>Image 02</span></li>
-            <li><span>Image 03</span></li>
-            <li><span>Image 04</span></li>
-            <li><span>Image 05</span></li>
-            <li><span>Image 06</span></li>
-        </ul>
-        <div class="header-card" >
-            <div class="header-card-wrapper wow fadeInUp" data-wow-duration="2s" data-wow-delay="1.2s">
-                <div class="card-header bg_cover" style="background-image: url(assets/images/card-bg.jpg)"></div> <!-- card-header -->
-                <div class="card-profile">
-                    <img src="assets/images/ott.png" alt="Profile">
-                </div> <!-- card-profile -->
-                <div class="card-content text-center">
-                    <h3 class="card-title">网络电视<br><span>OTT TV</span></h3>
-                    <p class="text">
-在这里，城市不只是背景，而是持续生长的灵感源泉。<br>
-我们关注为城市注入更有温度的表达方式。<br>
-在快速变化的城市进程中，我们选择慢下来，去观察、记录与思考，让城市的真实面貌被更多人看见。<br>
-我们相信，城市不仅由钢筋水泥构成，更由人、故事与情感共同塑造。
-</p>
-                    <a href="#" class="main-btn" data-toggle="modal" data-target="#contact-modal">留言</a>
-                </div> <!-- card-content -->
-                <div class="card-social text-center">
-                    <ul>
-                        <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                        <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                        <li><a href="#"><i class="lni-instagram-original"></i></a></li>
-                        <li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-                    </ul>
-                    <p style="
-    font-size: 10px;
-">Copyright &copy; 2026 <a target="_self" href="index.html" title="OTT">OTT.</a></p>
-                </div> <!-- card-social -->
-            </div> <!-- header-card -->
-        </div> <!-- header-card -->
-    </header>
-
-    <!--====== HEADER PART ENDS ======-->
-
-    <!--====== MODAL CONTACT PART ENDS ======-->
-
-    <!-- Modal -->
-    <div class="modal fade" id="contact-modal" tabindex="-1" role="dialog" aria-labelledby="contact-modalTitle" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <i class="lni-close"></i>
-                </button>
-                
-                <div class="modal-body">
-                    <div class="section-title text-center pb-20">
-                        <h5 class="sub-title mb-15">联系方试</h5>
-                        <h2 class="title">留言</h2>
-                    </div> <!-- section title -->
-                    <div class="contact-form">
-                        <form id="contact-form" action="assets/contact.php" method="post" data-toggle="validator">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="single-form form-group">
-                                        <input type="text" name="name" placeholder="名字" data-error="Name is required." required>
-                                        <div class="help-block with-errors"></div>
-                                    </div> <!-- single form -->
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="single-form form-group">
-                                        <input type="email" name="email" placeholder="邮箱" data-error="Valid email is required." required>
-                                        <div class="help-block with-errors"></div>
-                                    </div> <!-- single form -->
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="single-form form-group">
-                                        <input type="text" name="subject" placeholder="地址" data-error="Subject is required." required>
-                                        <div class="help-block with-errors"></div>
-                                    </div> <!-- single form -->
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="single-form form-group">
-                                        <input type="text" name="phone" placeholder="手机" data-error="Phone is required." required>
-                                        <div class="help-block with-errors"></div>
-                                    </div> <!-- single form -->
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="single-form form-group">
-                                        <textarea placeholder="留言信息" name="message" data-error="Please,leave us a message." required></textarea>
-                                        <div class="help-block with-errors"></div>
-                                    </div> <!-- single form -->
-                                </div>
-                                <p class="form-message"></p>
-                                <div class="col-md-12">
-                                    <div class="single-form form-group text-center">
-                                        <button type="submit" class="main-btn">提交留言</button>
-                                    </div> <!-- single form -->
-                                </div>
-                            </div> <!-- row -->
-                        </form>
-                    </div> <!-- contact form -->
-                </div>
-            </div>
-        </div>
+    <div class="links">
+        <a href="/iptv">
+            📺 IPTV
+            <span>/iptv</span>
+        </a>
+        <a href="/files">
+            📁 M3U / TXT
+            <span>/files</span>
+        </a>
+        <a href="/status">
+            📊 服务器状态
+            <span>/status</span>
+        </a>
+        <a href="/tools">
+            ⚙️ 管理和工具
+            <span>/tools</span>
+        </a>
     </div>
 
-    <!--====== MODAL CONTACT PART ENDS ======-->
+    <div class="footer">
+        © 2026 Crafted with by 
+<a href="https://me.ug.cx" target="_blank" rel="noopener" style="text-decoration:none;color:#747578;font-weight:400;">Me</a>
+    </div>
 
-
-
-    <!--====== jquery js ======-->
-    <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-
-    <!--====== Bootstrap js ======-->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-
-    <!--====== Slick js ======-->
-    <script src="assets/js/slick.min.js"></script>
-
-
-    <!--====== WOW js ======-->
-    <script src="assets/js/wow.min.js"></script>
-
-    <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
+</div>
 
 </body>
-
 </html>
