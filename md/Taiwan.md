@@ -48,7 +48,7 @@
 |博斯无限1|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/博斯无限1.png">|博斯无限2|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/博斯无限2.png">|
 |博斯运动1|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/博斯运动1.png">|博斯运动2|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/博斯运动2.png">|
 |采昌影剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/采昌影剧.png">|车迷TV|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/车迷TV.png">|
-|达文西频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/达文西频道.png">|大爱1台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/大爱1.png">|
+|达文西频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/达文西频道.png">|大爱1台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/大爱.png">|
 |大爱2台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/大爱2.png">|东风37|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东风37.png">|
 |东森Live|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森Live.png">|东森财经|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森财经.png">|
 |东森超视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森超视.png">|东森超视美洲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森超视美洲.png">|
@@ -58,16 +58,17 @@
 |东森新闻美洲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森新闻美洲.png">|东森亚洲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森亚洲.png">|
 |东森洋片|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森洋片.png">|东森幼幼|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森幼幼.png">|
 |东森中国台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森中国.png">|东森综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/东森综合.png">|
-|动物星球|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/动物星球.png">|动物星球台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/动物星球台湾.png">|
+|动物星球|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/AnimalPlanet.png">|动物星球台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/动物星球.png">|
 |非凡商业|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/非凡商业.png">|非凡新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/非凡新闻.png">|
 |高点育乐台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/高点育乐.png">|高点综合台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/高点综合.png">|
-|公视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视.png">|公视3台(小公视)|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视3台(小公视).png">|
+|公视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视.png">|公视3台(小公视)|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/小公视.png">|
 |公视台语|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视台语.png">|公视戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视戏剧.png">|
 |滚动力rollor|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/滚动力rollor.png">|国会频道1|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/国会频道1.png">|
 |国会频道2|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/国会频道2.png">|国兴卫视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/国兴卫视.png">|
-|韩国tvN|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tvN.png">|韩国娱乐台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/韩国娱乐.png">|
-|好莱坞电影台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好莱坞电影.png">|好消息1台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好消息1.png">|
-|好消息2台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好消息2.png">|华纳电视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华纳电视.png">|
+|tvN|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tvN.png">|韩国tvN|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tvNChannel.png">|
+|韩国娱乐台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/韩国娱乐.png">|好莱坞电影台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好莱坞电影.png">|
+|好消息1台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好消息1.png">|好消息2台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好消息2.png">|
+|华纳电视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华纳电视.png">|
 |华视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华视.png">|华视教育体育文化|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华视教育体育文化.png">|
 |华视新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华视新闻.png">|华艺MBC综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华艺MBC综合.png">|
 |寰宇财经|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/寰宇财经.png">|寰宇新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/寰宇新闻.png">|
@@ -80,7 +81,8 @@
 |靖天资讯|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/靖天资讯.png">|靖天综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/靖天综合.png">|
 |靖洋卡通|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/靖洋卡通.png">|靖洋戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/靖洋戏剧.png">|
 |镜新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/镜新闻.png">|客家卫视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/客家卫视.png">|
-|历史频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/历史频道.png">|龙华电影|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华电影.png">|
+|历史频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/History.png">|历史频道2|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/History2.png">|
+|龙华电影|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华电影.png">|
 |龙华经典|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华经典.png">|龙华卡通|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华卡通.png">|
 |龙华偶像|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华偶像.png">|龙华日韩|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华日韩.png">|
 |龙华戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华戏剧.png">|龙华洋片|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华洋片.png">|
