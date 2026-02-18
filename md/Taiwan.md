@@ -14,8 +14,8 @@
 |EYE戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/EYE戏剧.png">|FoodNetwork|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/FoodNetwork.png">|
 |GINX运动|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/GINX运动.png">|GlobalTrekker|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/GlobalTrekker.png">|
 |HBO|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBO.png">|HBOHD|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBOHD.png">|
-|HBO家庭影院|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBO家庭影院.png">|HBO强档巨献|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBO强档巨献.png">|
-|HBO原创巨献|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBO原创巨献.png">|HGTV居家乐活|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HGTV居家乐活.png">|
+|HBO家庭影院|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBOfamily.png">|HBO强档巨献|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBOhits.png">|
+|HBO原创巨献|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HBOsignature.png">|HGTV居家乐活|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HGTV居家乐活.png">|
 |HITSMovies|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HITSMovies.png">|HITSNOW|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HITSNOW.png">|
 |HITS|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/HITS.png">|JET综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/JET综合.png">|
 |K+|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/K+.png">|Lifetime|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/Lifetime.png">|
@@ -39,7 +39,7 @@
 |爱尔达体育MAX1|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达体育MAX1.png">|爱尔达体育MAX2|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达体育MAX2.png">|
 |爱尔达体育MAX3|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达体育MAX3.png">|爱尔达体育MAX4|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达体育MAX4.png">|
 |爱尔达影剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达影剧.png">|爱尔达娱乐|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达娱乐.png">|
-|爱尔达综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达综合.png">|八大第一|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大第一.png">|
+|爱尔达综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/爱尔达综合.png">|八大第一|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大第1.png">|
 |八大精彩|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大精彩.png">|八大戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大戏剧.png">|
 |八大优频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大优.png">|八大娱乐|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大娱乐.png">|
 |八大综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大综合.png">|八大综艺|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/八大综艺.png">|
@@ -65,7 +65,7 @@
 |公视台语|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视台语.png">|公视戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/公视戏剧.png">|
 |滚动力rollor|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/滚动力rollor.png">|国会频道1|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/国会频道1.png">|
 |国会频道2|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/国会频道2.png">|国兴卫视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/国兴卫视.png">|
-|韩国tvN|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/韩国tvN.png">|韩国娱乐台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/韩国娱乐.png">|
+|韩国tvN|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tvN.png">|韩国娱乐台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/韩国娱乐.png">|
 |好莱坞电影台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好莱坞电影.png">|好消息1台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好消息1.png">|
 |好消息2台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/好消息2.png">|华纳电视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华纳电视.png">|
 |华视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华视.png">|华视教育体育文化|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/华视教育体育文化.png">|
@@ -103,8 +103,8 @@
 |索尼影视AXN台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/索尼影视AXN台湾.png">|台视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台视.png">|
 |台视财经|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台视财经.png">|台视新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台视新闻.png">|
 |台视综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台视综合.png">|台湾Plus|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台湾Plus.png">|
-|台湾戏剧台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台湾戏剧.png">|探索动力DMAX|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索动力DMAX.png">|
-|探索居家健康EVE|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索居家健康EVE.png">|探索科学|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索科学.png">|
+|台湾戏剧台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台湾戏剧.png">|探索动力DMAX|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/DMAX.png">|
+|探索居家健康EVE|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索居家健康EVE.png">|探索科学|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/SCI.png">|
 |探索旅游生活TLC|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索旅游生活TLC.png">|探索频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索频道.png">|
 |探索亚洲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索亚洲.png">|纬来电影|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来电影.png">|
 |纬来精采|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来精采.png">|纬来日本|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来日本.png">|
