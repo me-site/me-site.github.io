@@ -86,7 +86,7 @@
 |龙华经典|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华经典.png">|龙华卡通|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华卡通.png">|
 |龙华偶像|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华偶像.png">|龙华日韩|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华日韩.png">|
 |龙华戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华戏剧.png">|龙华洋片|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华洋片.png">|
-|龙华影剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华影剧.png">|龙祥电影|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙祥电影.png">|
+|龙华影剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙华影剧.png">|龙祥时代电影|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/龙祥时代电影.png">|
 |旅游频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/Trvl.png">|美食星球|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/美食星球.png">|
 |美亚电影台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/美亚电影.png">|民视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/民视.png">|
 |民视第一|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/民视第一.png">|民视旅游|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/民视旅游.png">|
