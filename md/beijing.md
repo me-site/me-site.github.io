@@ -1,7 +1,7 @@
 # 【北京】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
-|北京卫视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京卫视.png" width="300" height="180">|北京卫视Name版|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/tv/北京卫视.png" width="300" height="180">|
+|北京卫视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京卫视.png" width="300" height="180">|北京卫视Name版|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tv/北京卫视.png" width="300" height="180">|
 |北京新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京新闻.png" width="300" height="180">|北京财经|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京财经.png" width="300" height="180">|
 |北京文艺|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京文艺.png" width="300" height="180">|北京影视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京影视.png" width="300" height="180">|
 |北京纪实科教|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京纪实科教.png" width="300" height="180">|北京体育休闲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/北京体育休闲.png" width="300" height="180">|
