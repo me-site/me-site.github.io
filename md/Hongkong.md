@@ -29,7 +29,7 @@
 |NOWSportsPremier5|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOWSportsPremier5.png">|NOWSportsPremier6|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOWSportsPremier6.png">|
 |NOWSportsPremier7|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOWSportsPremier7.png">|NOWSportsPrime|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOWSportsPrime.png">|
 |NOW报价台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW报价.png">|NOW爆谷台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW爆谷.png">|
-|NOW爆谷星影台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW爆谷星影.png">|NOW财经台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW财经.png">|
+|NOW爆谷星影台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW星影.png">|NOW财经台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW财经.png">|
 |NOW华剧台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW华剧.png">|NOW跑马668|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW跑马668.png">|
 |NOW新闻台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW新闻.png">|NOW直播台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW直播.png">|
 |NOW紫金国际|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/NOW紫金国际.png">|PopC|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/PopC.png">|
