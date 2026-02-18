@@ -1,4 +1,4 @@
-# 【湖南】台标PNG文件
+# 【成人频道】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |香蕉台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tv/香蕉台.png" width="300" height="180">|驚豔成人電影台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/tv/惊艳台.png" width="300" height="180">|
