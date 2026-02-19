@@ -9,7 +9,7 @@
 |CMusic|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/CMusic.png">|CN卡通|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/CN卡通.png">|
 |CN卡通台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/CN卡通台湾.png">|DAZN1台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/DAZN1台湾.png">|
 |DAZN2台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/DAZN2台湾.png">|DAZN3台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/DAZN3台湾.png">|
-|Dreamworks|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/Dreamworks.png">|ELTV生活英语|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/ELTV生活英语.png">|
+|DreamWorks|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/DreamWorks.png">|ELTV生活英语|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/ELTV生活英语.png">|
 |ETtoday综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/ETtoday综合.png">|EYE旅游|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/EYE旅游.png">|
 |EYE戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/EYE戏剧.png">|FoodNetwork|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/FoodNetwork.png">|
 |GINX运动|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/GINX运动.png">|GlobalTrekker|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/GlobalTrekker.png">|
@@ -99,7 +99,7 @@
 |三立都会|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/三立都会.png">|三立国际|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/三立国际.png">|
 |三立台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/三立台湾.png">|三立戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/三立戏剧.png">|
 |三立新闻|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/三立新闻.png">|三立综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/三立综合.png">|
-|时尚运动X|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/时尚运动X.png">|视纳华仁纪实|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/视纳华仁纪实.png">|
+|时尚运动X|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/时尚运动X.png">|视纳华仁纪实|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/CNEX.png">|
 |索尼ONE|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/ONE.png">|索尼动画Animax|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/Animax.png">|
 |索尼动画Animax台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/Animax.png">|索尼影视AXN|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/AXN.png">|
 |索尼影视AXN台湾|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/AXN.png">|台视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台视.png">|
@@ -107,7 +107,7 @@
 |台视综合|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台视综合.png">|台湾Plus|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台湾Plus.png">|
 |台湾戏剧台|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/台湾戏剧.png">|探索动力DMAX|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/DMAX.png">|
 |探索居家健康EVE|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索居家健康EVE.png">|探索科学|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/SCI.png">|
-|探索旅游生活TLC|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索旅游生活TLC.png">|探索频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索.png">|
+|探索旅游生活TLC|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索旅游生活TLC.png">|探索频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/Discovery.png">|
 |探索亚洲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/探索亚洲.png">|纬来电影|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来电影.png">|
 |纬来精采|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来精采.png">|纬来日本|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来日本.png">|
 |纬来体育|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来体育.png">|纬来戏剧|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/纬来戏剧.png">|
