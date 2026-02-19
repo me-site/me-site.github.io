@@ -13,7 +13,7 @@
 
 【[山东](./md/Shandong.md)】  【[江苏](./md/Jiangsu.md)】  【[安徽](./md/Anhu.md)】  【[浙江](./md/Zhejiang.md)】  【[福建](./md/Fujian.md)】  【[上海](./md/Shanhai.md)】
 
-【[广东](./md/Guandong.md)】  【[广西](./md/Guanxi.md)】  【[海南](./md/Hainan.md)】
+【[广东](./md/Guandong.md)】  【[广西](./md/Guangxi.md)】  【[海南](./md/Hainan.md)】
 
 【[湖南](./md/Hunan.md)】  【[湖北](./md/Hubei.md)】  【[河南](./md/Henan.md)】  【[江西](./md/Jiangxi.md)】
 
