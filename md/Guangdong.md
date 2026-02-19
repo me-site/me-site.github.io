@@ -9,7 +9,7 @@
 |广东珠江|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东珠江.png">|大湾区卫视|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东大湾区卫视.png">|
 |岭南戏曲|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东岭南戏曲.png">|广东房产|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东房产.png">|
 |现代教育|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东现代教育.png">|嘉佳卡通|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东嘉佳卡通.png">|
-|广东移动|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东移动.png">|南方购物|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/南方购物.png">|
+|广东移动|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东移动.png">|南方购物|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广东南方购物.png">|
 |广州综合频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广州综合.png">|广州新闻频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广州新闻.png">|
 |广州法治频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广州法治.png">|广州竞赛频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广州竞赛.png">|
 |广州影视频道|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广州影视.png">|广州南国都市|<img src="https://github.com/me-site/me-site.github.io/blob/main/logo/广州南国都市.png">|
