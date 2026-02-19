@@ -13,17 +13,17 @@
 
 【[山东](./md/Shandong.md)】  【[江苏](./md/Jiangsu.md)】  【[安徽](./md/Anhu.md)】  【[浙江](./md/Zhejiang.md)】  【[福建](./md/Fujian.md)】  【[上海](./md/Shanhai.md)】
 
-【[广东](./md/Guandong.md)】  【[广西](./md/GX.md)】  【[海南](./md/HIN.md)】
+【[广东](./md/Guandong.md)】  【[广西](./md/Guanxi.md)】  【[海南](./md/Hainan.md)】
 
-【[湖南](./md/Hunan.md)】  【[湖北](./md/HUB.md)】  【[河南](./md/HEN.md)】  【[江西](./md/JX.md)】
+【[湖南](./md/Hunan.md)】  【[湖北](./md/Hubei.md)】  【[河南](./md/Henan.md)】  【[江西](./md/Jiangxi.md)】
 
-【[北京](./md/Beijing.md)】  【[天津](./md/TJ.md)】  【[河北](./md/HEB.md)】  【[山西](./md/SX.md)】  【[内蒙古](./md/NM.md)】
+【[北京](./md/Beijing.md)】  【[天津](./md/Tianjin.md)】  【[河北](./md/Hebei.md)】  【[山西](./md/Shanx.md)】  【[内蒙古](./md/Neimeng.md)】
 
-【[宁夏](./md/NX.md)】  【[新疆](./md/XJ.md)】  【[青海](./md/QH.md)】  【[陕西](./md/SAX.md)】  【[甘肃](./md/GS.md)】
+【[宁夏](./md/Ningxia.md)】  【[新疆](./md/Xinjiang.md)】  【[青海](./md/Qinghai.md)】  【[陕西](./md/Shanxi.md)】  【[甘肃](./md/Gansu.md)】
 
-【[四川](./md/SC.md)】  【[云南](./md/YN.md)】  【[贵州](./md/GZ.md)】  【[西藏](./md/XZ.md)】  【[重庆](./md/XQ.md)】
+【[四川](./md/Sichuan.md)】  【[云南](./md/Yunnan.md)】  【[贵州](./md/Guizhou.md.md)】  【[西藏](./md/Xizang.md)】  【[重庆](./md/Chongqing.md)】
 
-【[辽宁](./md/LN.md)】  【[吉林](./md/JL.md)】  【[黑龙江](./md/HLJ.md)】
+【[辽宁](./md/Liaoning.md)】  【[吉林](./md/Jilin.md)】  【[黑龙江](./md/Heilongjiang.md)】
 
 > 4K频道
 > 
