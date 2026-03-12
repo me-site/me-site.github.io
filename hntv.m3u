@@ -409,3 +409,5 @@ http://www.lvyjay.win:4022/rtp/233.50.202.35:5140
 http://nas.yzs10000.com:17777/rtp/239.94.2.50:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
 http://www.lvyjay.win:4022/rtp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="LOL" tvg-logo="https://me.ug.cx/logo/LOL.png" group-title="体育",LOL 英雄联盟赛事
+https://iptv.catvod.com/huya.php?id=660000
