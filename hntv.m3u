@@ -413,6 +413,50 @@ http://www.lvyjay.win:4022/rtp/233.50.202.36:5140
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://me.ug.cx/logo/TVB明珠.png" group-title="香港",明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
+https://cdn13.178.indevs.in/163189/bea1d91d91364062
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+#EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
+https://cdn13.178.indevs.in/163189/21d79187db6e9793
+#EXTINF:-1 tvg-name="广州综合" group-title="mytv",广州综合
+https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+#EXTINF:-1 tvg-name="广州新闻" group-title="mytv",广州新闻
+https://cdn13.178.indevs.in/163189/609602b1e1048784
+#EXTINF:-1 tvg-name="南国都市4K" group-title="mytv",广州南国都市
+https://cdn15.163189.xyz/163189/90871926591ebcbc
+#EXTINF:-1 tvg-name="五星体育" group-title="mytv",五星体育
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-name="民視影劇台" group-title="mytv",民视影剧台
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 tvg-name="公視戲劇" group-title="mytv",公视戏剧
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 tvg-name="采昌影劇台" group-title="mytv",采昌影剧台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 tvg-name="靖天映畫" group-title="mytv",靖天映画
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 tvg-name="靖天戲劇台" group-title="mytv",靖天戏剧台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天电影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戏剧台
+https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+#EXTINF:-1 tvg-name="影迷數位電影台" group-title="mytv",影迷数位电影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 tvg-name="amc電影台" group-title="mytv",amc电影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="mytv",CinemaWorld
+https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="mytv",My Cinema Europe
+https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 tvg-name="經典電影台" group-title="mytv",经典电影台
+https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="mytv",CMusic
+https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 tvg-name="DreamWorks" group-title="mytv",DreamWorks梦工厂动画
+https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 tvg-name="精選動漫台" group-title="mytv",精选动漫台
+https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 #EXTINF:-1 tvg-name="LOL" tvg-logo="https://me.ug.cx/logo/LOL.png" group-title="体育",LOL 英雄联盟赛事
 https://iptv.catvod.com/huya.php?id=660000
-
