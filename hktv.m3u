@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
+#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
 https://cdn13.178.indevs.in/163189/bea1d91d91364062
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
