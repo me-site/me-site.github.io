@@ -1,4 +1,34 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://me.ug.cx/logo/凤凰中文.png" group-title="香港",鳳凰中文台
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://me.ug.cx/logo/凤凰香港.png" group-title="香港",鳳凰香港台
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://me.ug.cx/logo/TVB新闻.png" group-title="香港",無綫新聞台
+https://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://me.ug.cx/logo/NOW新闻.png" group-title="香港",NOW 新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://me.ug.cx/logo/HOY78资讯.png" group-title="香港",HOY资讯台
+https://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://me.ug.cx/logo/ViuTV.png" group-title="香港",ViuTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://me.ug.cx/logo/ViuTV.png" group-title="香港",ViuTV
+https://cdn10.163189.xyz/stream/163189/viu/
+#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://me.ug.cx/logo/ViuTV6.png" group-title="香港",ViuTVsix
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://me.ug.cx/logo/TVBPlus.png" group-title="香港",TVB Plus
+http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://me.ug.cx/logo/TVBPlus.png" group-title="香港",TVB Plus
+https://smt.1678520.xyz/163189/18e96648d4420d9e
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://me.ug.cx/logo/TVB翡翠.png" group-title="香港",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://me.ug.cx/logo/TVB翡翠.png" group-title="香港",翡翠台
+http://cdn6.163189.xyz/163189/fct
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://me.ug.cx/logo/TVB明珠.png" group-title="香港",明珠台
+http://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://me.ug.cx/logo/天映经典.png" group-title="香港",天映经典
+https://cdn10.163189.xyz/stream/163189/ccm/
 #EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
 https://cdn13.178.indevs.in/163189/bea1d91d91364062
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
@@ -53,8 +83,6 @@ http://feilong123.vip/409990236/huyacache/huya.php?id=660000
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="Juli",明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Juli",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="Juli",TVB星河
 http://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="Juli",千禧经典台
@@ -89,82 +117,3 @@ https://cdn10.163189.xyz/stream/163189/viu6/
 https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="Juli",天映经典频道
 https://cdn10.163189.xyz/stream/163189/ccm/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Juli",翡翠台广电
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="Juli",无线新闻台
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png" group-title="Juli",无线新闻台
-https://itv.us.kg/?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Juli",HOYTV
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="Juli",HOYTV
-https://itv.us.kg/?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Juli",HOY资讯台
-https://itv.us.kg/?url=http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
-#EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Juli",HOY剧集台
-https://itv.us.kg/?url=http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="Juli",NOW新闻台
-https://itv.us.kg/?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-#EXTINF:-1 tvg-name="TV 31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="Juli",RTHK 31
-https://itv.us.kg/?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-#EXTINF:-1 tvg-name="TV 32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="Juli",RTHK 32
-https://itv.us.kg/?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="Juli",凤凰中文
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="Juli",凤凰资讯
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="Juli",凤凰香港
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="Juli",CCTV1
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="Juli",CCTV13
-https://itv.us.kg/?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="Juli",广东珠江
-https://itv.us.kg/?url=http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="Juli",广东体育
-https://itv.us.kg/?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="Juli",澳视澳门
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/澳视卫星.png" group-title="Juli",澳视卫星
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="Juli",澳门体育
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png" group-title="Juli",澳门综艺
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳门莲花.png" group-title="Juli",澳门莲花
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="Juli",重温经典
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Juli",华丽翡翠台
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Juli",翡翠一台(TVB1)
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-#EXTINF:-1 tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="Juli",TVBJ
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBDRAMA.png" group-title="Juli",TVB翡翠剧集台
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/功夫台.png" group-title="Juli",TVB亚洲武侠
-https://itv.us.kg/?url=http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="Juli",娱乐新闻台
-https://itv.us.kg/?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="Juli",TVB星河
-https://itv.us.kg/?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="Juli",龙华电影
-https://itv.us.kg/?url=http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-#EXTINF:-1 tvg-name="龙华经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="Juli",龙华经典台
-https://itv.us.kg/?url=http://cdn8.veryfast.filegear-sg.me/163189/lhjd
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="Juli",龙华偶像
-https://itv.us.kg/?url=http://cdn8.veryfast.filegear-sg.me/163189/lhox
-#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="Juli",龙华日韩台
-https://itv.us.kg/?url=http://cdn8.veryfast.filegear-sg.me/163189/lhrh
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="Juli",龙华戏剧
-https://itv.us.kg/?url=http://cdn8.veryfast.filegear-sg.me/163189/lhxj
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="Juli",八度空间
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-id="CH 5 (HD)" tvg-name="CH5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Ch 5 (HD).png" group-title="Juli",CH5
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="CH 8 (HD)" tvg-name="CH8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Ch 8 (HD).png" group-title="Juli",CH8
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-id="CH U (HD)" tvg-name="CHU" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELUHD.png" group-title="Juli",CHU
-https://itv.us.kg/?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-
