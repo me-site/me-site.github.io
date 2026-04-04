@@ -287,21 +287,16 @@ https://gxyd.484947.xyz/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IA
 https://shyd.695847.xyz/cms001/ch00000090990000001230/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 https://gxyd.484947.xyz/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://me.ug.cx/logo/凤凰中文.png" group-title="香港",鳳凰中文台
-https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://me.ug.cx/logo/凤凰中文.png" group-title="香港",鳳凰中文台
 https://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://me.ug.cx/logo/凤凰中文.png" group-title="香港",鳳凰中文台
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
-https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://me.ug.cx/logo/凤凰中文.png" group-title="香港",鳳凰中文台
+http://play-a.quklive.com/live/aaafhzw.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
 https://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://me.ug.cx/logo/凤凰香港.png" group-title="香港",鳳凰香港台
-https://smt2.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://me.ug.cx/logo/凤凰香港.png" group-title="香港",鳳凰香港台
 https://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://me.ug.cx/logo/凤凰香港.png" group-title="香港",鳳凰香港台
