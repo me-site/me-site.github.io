@@ -347,6 +347,8 @@ https://smt2.1678520.xyz/smt3.2.1.php?id=pearl_twn
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="香港",TVB星河
 https://cdn10.163189.xyz/stream/163189/xinghe/
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://me.ug.cx/logo/PopC.png" group-title="香港",PopC
+http://play-a.quklive.com/live/aaapopc.flv
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://me.ug.cx/logo/天映经典.png" group-title="香港",天映经典
 https://cdn10.163189.xyz/stream/163189/ccm/
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://me.ug.cx/logo/天映经典.png" group-title="香港",天映经典
