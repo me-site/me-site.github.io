@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://me.ug.cx/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://cssbyd.imwork.net:8082/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://me.ug.cx/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://phmanet.com:9999/rtp/239.76.252.121:9000
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://me.ug.cx/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://yyangnet99.host:65000/rtp/239.76.252.121:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://me.ug.cx/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://www.zlizi.cn:4023/rtp/239.76.252.121:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://me.ug.cx/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://andy-nas.top:8623/rtp/239.76.252.121:9000
 
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://me.ug.cx/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://cssbyd.imwork.net:8082/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://me.ug.cx/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://phmanet.com:9999/rtp/239.76.252.123:9000
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://me.ug.cx/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://yyangnet99.host:65000/rtp/239.76.252.123:9000
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://me.ug.cx/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://www.zlizi.cn:4023/rtp/239.76.252.123:9000
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://me.ug.cx/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
@@ -20,12 +20,16 @@ http://andy-nas.top:8623/rtp/239.76.252.123:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://me.ug.cx/logo/湖南经视.png" group-title="湖南",湖南经视
 http://phmanet.com:9999/rtp/239.76.252.116:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://me.ug.cx/logo/湖南经视.png" group-title="湖南",湖南经视
+http://yyangnet99.host:65000/rtp/239.76.252.116:9000
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://me.ug.cx/logo/湖南经视.png" group-title="湖南",湖南经视
 http://www.zlizi.cn:4023/rtp/239.76.252.116:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://me.ug.cx/logo/湖南经视.png" group-title="湖南",湖南经视
 http://andy-nas.top:8623/rtp/239.76.252.116:9000
 
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://me.ug.cx/logo/湖南都市.png" group-title="湖南",湖南都市
 http://phmanet.com:9999/rtp/239.76.252.117:9000
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://me.ug.cx/logo/湖南都市.png" group-title="湖南",湖南都市
+http://yyangnet99.host:65000/rtp/239.76.252.117:9000
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://me.ug.cx/logo/湖南都市.png" group-title="湖南",湖南都市
 http://www.zlizi.cn:4023/rtp/239.76.252.117:9000
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://me.ug.cx/logo/湖南都市.png" group-title="湖南",湖南都市
@@ -34,19 +38,25 @@ http://andy-nas.top:8623/rtp/239.76.252.117:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://me.ug.cx/logo/湖南国际.png" group-title="湖南",湖南国际
 http://phmanet.com:9999/rtp/239.76.252.124:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://me.ug.cx/logo/湖南国际.png" group-title="湖南",湖南国际
+http://yyangnet99.host:65000/rtp/239.76.252.124:9000
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://me.ug.cx/logo/湖南国际.png" group-title="湖南",湖南国际
 http://www.zlizi.cn:4023/rtp/239.76.252.124:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://me.ug.cx/logo/湖南国际.png" group-title="湖南",湖南国际
 http://andy-nas.top:8623/rtp/239.76.252.124:9000
 
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://me.ug.cx/logo/湖南电影.png" group-title="湖南",湖南电影
-http://cssbyd.imwork.net:8082/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://me.ug.cx/logo/湖南电影.png" group-title="湖南",湖南电影
 http://phmanet.com:9999/rtp/239.76.252.119:9000
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://me.ug.cx/logo/湖南电影.png" group-title="湖南",湖南电影
+http://yyangnet99.host:65000/rtp/239.76.252.119:9000
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://me.ug.cx/logo/湖南电影.png" group-title="湖南",湖南电影
 http://www.zlizi.cn:4023/rtp/239.76.252.119:9000
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://me.ug.cx/logo/湖南电影.png" group-title="湖南",湖南电影
 http://andy-nas.top:8623/rtp/239.76.252.119:9000
 
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://me.ug.cx/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://phmanet.com:9999/rtp/239.76.252.118:9000
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://me.ug.cx/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://yyangnet99.host:65000/rtp/239.76.252.118:9000
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://me.ug.cx/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://phmanet.com:9999/rtp/239.76.252.118:9000
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://me.ug.cx/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
@@ -57,6 +67,8 @@ http://andy-nas.top:8623/rtp/239.76.252.118:9000
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://me.ug.cx/logo/茶.png" group-title="湖南",茶频道
 http://phmanet.com:9999/rtp/239.76.252.239:9000
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://me.ug.cx/logo/茶.png" group-title="湖南",茶频道
+http://yyangnet99.host:65000/rtp/239.76.252.239:9000
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://me.ug.cx/logo/茶.png" group-title="湖南",茶频道
 http://www.zlizi.cn:4023/rtp/239.76.252.239:9000
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://me.ug.cx/logo/茶.png" group-title="湖南",茶频道
 http://andy-nas.top:8623/rtp/239.76.252.239:9000
@@ -64,14 +76,16 @@ http://andy-nas.top:8623/rtp/239.76.252.239:9000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://me.ug.cx/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://phmanet.com:9999/rtp/239.76.252.122:9000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://me.ug.cx/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
+http://yyangnet99.host:65000/rtp/239.76.252.122:9000
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://me.ug.cx/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://www.zlizi.cn:4023/rtp/239.76.252.122:9000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://me.ug.cx/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://andy-nas.top:8623/rtp/239.76.252.122:9000
 
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
-http://cssbyd.imwork.net:8082/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
 http://phmanet.com:9999/rtp/239.76.252.120:9000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
+http://yyangnet99.host:65000/rtp/239.76.252.120:9000
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
 http://www.zlizi.cn:4023/rtp/239.76.252.120:9000
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://me.ug.cx/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
@@ -80,23 +94,8 @@ http://andy-nas.top:8623/rtp/239.76.252.120:9000
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://me.ug.cx/logo/快乐垂钓.png" group-title="湖南",快乐垂钓
 http://phmanet.com:9999/rtp/239.76.253.5:9000
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://me.ug.cx/logo/快乐垂钓.png" group-title="湖南",快乐垂钓
+http://yyangnet99.host:65000/rtp/239.76.253.5:9000
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://me.ug.cx/logo/快乐垂钓.png" group-title="湖南",快乐垂钓
 http://www.zlizi.cn:4023/rtp/239.76.253.5:9000
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://me.ug.cx/logo/快乐垂钓.png" group-title="湖南",快乐垂钓
 http://andy-nas.top:8623/rtp/239.76.253.5:9000
-
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://me.ug.cx/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://107.150.60.122/live/hnyl.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://me.ug.cx/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://107.150.60.122/live/hngg.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://me.ug.cx/logo/湖南经视.png" group-title="湖南",湖南经视
-http://107.150.60.122/live/hnjs.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://me.ug.cx/logo/湖南都市.png" group-title="湖南",湖南都市
-http://107.150.60.122/live/hnds.m3u8
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://me.ug.cx/logo/湖南国际.png" group-title="湖南",湖南国际
-http://107.150.60.122/live/hngj.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://me.ug.cx/logo/湖南电影.png" group-title="湖南",湖南电影
-http://107.150.60.122/live/hndy.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://me.ug.cx/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-https://php.jdshipin.com:8880/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://me.ug.cx/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://107.150.60.122/live/hndsj.m3u8
