@@ -1,1 +1,38 @@
+TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
+纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
+纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
+纬来体育台,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
+龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
+东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
+东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
+东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_twn
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_xue
+华丽翡翠台,https://php.jdshipin.com:2096/smt.php?id=Tvbjade
+华丽翡翠台,https://php.jdshipin.com:2096/smt.php?id=Wlt
+TVB星河,https://php.jdshipin.com:2096/smt.php?id=Xinhe
+明珠台,https://php.jdshipin.com:2096/smt.php?id=pearl_twn
+TVB Plus,https://php.jdshipin.com:2096/smt.php?id=j2_twn
+无线新闻,https://php.jdshipin.com:2096/smt.php?id=inews_twn
+TVB娱乐新闻台,https://php.jdshipin.com:2096/smt.php?id=Tvbentertainment
+ViuTV,https://php.jdshipin.com:2096/smt.php?id=viu1_twn
+ViuTVSix,https://php.jdshipin.com:2096/smt.php?id=viusix_twn
+HOY资讯台,https://php.jdshipin.com:2096/smt.php?id=hoycaijing_twn
+RTHK31,https://php.jdshipin.com:2096/smt.php?id=rhk31_twn
+RTHK32,https://php.jdshipin.com:2096/smt.php?id=rhk32_twn
+千禧经典台,https://php.jdshipin.com:2096/smt.php?id=Tvbclassic
+美亚电影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
+天映频道,https://php.jdshipin.com:2096/smt.php?id=Celestial
+天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2
+凤凰中文,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
+凤凰资讯,https://php.jdshipin.com:2096/smt.php?id=phoenixinfo_hd
+凤凰香港,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
+八度空间,https://php.jdshipin.com:2096/smt.php?id=TV8
+Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
+Astro AEC,https://php.jdshipin.com:2096/smt.php?id=AEC
+爱奇艺,https://php.jdshipin.com:2096/smt.php?id=Qiyi
+Astro QJ,https://php.jdshipin.com:2096/smt.php?id=Quanjia
+Astro欢喜台,https://php.jdshipin.com:2096/smt.php?id=Huahee
+纬来电影,https://php.jdshipin.com:2096/smt.php?id=videolandmovie
+纬来体育,https://php.jdshipin.com:2096/smt.php?id=videolandsport
