@@ -21,6 +21,8 @@ PopC,https://pixman.passwdwork.cc.cd/proxy/103718b37d47a623.m3u8
 博斯高球台,https://pixman.passwdwork.cc.cd/proxy/38095717a7e960f8.m3u8
 博斯網球台,https://pixman.passwdwork.cc.cd/proxy/0544643d41929cc4.m3u8
 博斯無限台,https://pixman.passwdwork.cc.cd/proxy/39d98e2967db58cc.m3u8
+黃金華劇台,https://pixman.passwdwork.cc.cd/proxy/504e3ceb32d2520f.m3u8
+娛樂新聞台,https://pixman.passwdwork.cc.cd/proxy/834f18ba616b6bdf.m3u8
 
 
 
