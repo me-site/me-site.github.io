@@ -135,7 +135,55 @@ CCTV-4K超高清,https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e
 凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
+Now新聞台,https://cdn.163189.xyz/163189/now
+鳳凰中文台,https://cdn6.163189.xyz/163189/fhzw
+鳳凰資訊台,https://cdn6.163189.xyz/163189/fhzx
+鳳凰香港台,https://cdn6.163189.xyz/163189/fhhk
+無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
+娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
+翡翠台广电,https://cdn6.163189.xyz/163189/fct
+功夫台,https://cdn6.163189.xyz/163189/yzwx
+8TV,https://cdn6.163189.xyz/163189/8tv
+Channel 5,https://cdn6.163189.xyz/163189/ch5
+Channel 8,https://cdn6.163189.xyz/163189/ch8
+Channel U,https://cdn6.163189.xyz/163189/ch
+VIUTV,https://cdn10.163189.xyz/stream/163189/viu/
+VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6/
+TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
+天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映经典频道,https://o11.163189.xyz/stream/live/ccm/
+金光布袋戏,https://o11.163189.xyz/stream/live/jgbdx/
+ASTROAOD,https://o11.163189.xyz/stream/live/aod/
+ASTROAEC,https://o11.163189.xyz/stream/live/aec/
+ASTROQJ,https://o11.163189.xyz/stream/live/qj/
+ASTRO欢喜台,https://o11.163189.xyz/stream/live/hxt/
+IQIYI,https://o11.163189.xyz/stream/live/iqiyi/
+民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+amc电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
