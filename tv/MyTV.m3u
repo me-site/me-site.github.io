@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://me.ug.cx/logo/凤凰中文.png" group-title="香港",鳳凰中文台
-https://cdn6.163189.xyz/163189/fhzw
+https://php.jdshipin.com/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
+https://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://me.ug.cx/logo/凤凰资讯.png" group-title="香港",鳳凰資訊台
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://me.ug.cx/logo/凤凰香港.png" group-title="香港",鳳凰香港台
-https://cdn6.163189.xyz/163189/fhhk
+https://php.jdshipin.com/smt.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://me.ug.cx/logo/TVB新闻.png" group-title="香港",無綫新聞台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://me.ug.cx/logo/HOY78资讯.png" group-title="香港",HOY资讯台
